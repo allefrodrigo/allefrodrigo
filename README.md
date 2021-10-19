@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Allef Schmidt, atualmente cursando meu bacharelado em ciência da computação na Universidade Federal Rural do Semi-Árido. Sou um entusiasta de tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras / disruptivas. Descubra mais sobre mim e sinta-se à vontade para se conectar comigo aqui.
+Me chamo Allef Schmidt, atualmente cursando meu bacharelado em ciência da computação na Universidade Federal Rural do Semi-Árido. Sou um entusiasta de tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras. 
 
 <!-- <img src=""></img> -->
 🚀 Diariamente eu uso: <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img> <br>
