@@ -8,8 +8,7 @@
 
 Me chamo Allef Schmidt, atualmente cursando meu bacharelado em ciência da computação na Universidade Federal Rural do Semi-Árido. Sou um entusiasta de tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras. 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-
+## Tech Stack
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
