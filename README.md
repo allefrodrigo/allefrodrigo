@@ -3,10 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Allef+Schmidt;Eu+sou+Allef+Schmidt;Frotend+Developer;Backend+Developer;Bot+Developer;Mobile+Developer+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Allef+Schmidt;Eu+sou+Allef+Schmidt;Frontend+Developer;Backend+Developer;Bot+Developer;Mobile+Developer+%3C3"></a>
 </p>
 
-Me chamo Allef Schmidt, atualmente cursando meu bacharelado em ciência da computação na Universidade Federal Rural do Semi-Árido. Sou um entusiasta de tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras. 
+I'm a passionate Frontend Developer with focus on web development and APIs. Familiarity with JavaScript and Python, frameworks and tools (React, Redux, FastAPI, Flask, Express, Axios, Vue.js, Node.js, Webpack e Babel.js) and DevOps/cloud deployment (mainly on Heroku). I also have 3 years of experience architecting, developing, deploying, and maintaining   mobile application using React Native (iOS & Android).
+
+5 years experience leading development teams (Web development, hardware development, science fair & robotic teams) and implementing agile methodologies, especially SCRUM + KANBAN.
+
+I make robots 🤖 as a hobby, I love 3D printing, 3D modeling, chatbots, create circuit boards, get sensors data and control some stuffs.
 
 ## Tech Stack
 <p align="center">
