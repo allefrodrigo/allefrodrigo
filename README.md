@@ -9,15 +9,15 @@
 Com uma sólida base de conhecimento em desenvolvimento frontend/fullstack e habilidades de liderança, destaco minha experiência em liderar equipes de desenvolvimento em diversas áreas, principalmente em projetos web e mobile.
 
 Experiência:
-• 4 anos de experiência sendo desenvolvedor Frontend em projetos para empresas do governo federal e estadual. (React JS e VueJS) 
-• 4 Implementação de arquitetura, desenvolvimento, implantação e manutenção de aplicativos móveis usando React Native (iOS e Android).
-• 5 anos de experiência em liderança de equipes de desenvolvimento utilizando metodologias ág,is. especialmente SCRUM + KANBAN.
+#4 anos de experiência sendo desenvolvedor Frontend em projetos para empresas do governo federal e estadual. (React JS e VueJS) 
+#4 Implementação de arquitetura, desenvolvimento, implantação e manutenção de aplicativos móveis usando React Native (iOS e Android).
+#5 anos de experiência em liderança de equipes de desenvolvimento utilizando metodologias ág,is. especialmente SCRUM + KANBAN.
 
 Habilidades:
-• Linguagem de programação: Javascript, Typescript, Python e C/C++
-• Bibliotecas e Ferramentas: React, React Native, express, axios, node.js, Vite.
-• DevOps: Cypress, Github Actions, Gitlab CI/CD.
-• Banco de Dados: MongoDB, PostgresSQL.
+#Linguagem de programação: Javascript, Typescript, Python e C/C++
+#Bibliotecas e Ferramentas: React, React Native, express, axios, node.js, Vite.
+#DevOps: Cypress, Github Actions, Gitlab CI/CD.
+#Banco de Dados: MongoDB, PostgresSQL.
 
 
 ## Tech Stack
