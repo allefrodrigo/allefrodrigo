@@ -8,7 +8,8 @@
 
 ## Perfil Profissional
 
-Com uma sólida base de conhecimento em desenvolvimento frontend/fullstack e habilidades de liderança, destaco minha experiência em liderar equipes de desenvolvimento em diversas áreas, principalmente em projetos web e mobile.
+Com uma base sólida em desenvolvimento frontend e fullstack, tenho habilidades comprovadas de liderança, destacando-me na gestão de equipes de desenvolvimento para projetos web e mobile. Responsável por arquitetar e gerenciar o ciclo completo de desenvolvimento de software, utilizo práticas ágeis para otimizar a produtividade e promover um ambiente colaborativo. Minha expertise técnica é reforçada por habilidades de comunicação e resolução de problemas, permitindo uma interação eficaz com todas as partes interessadas e impulsionando o sucesso empresarial por meio da inovação tecnológica.
+
 
 ### Experiência:
 
