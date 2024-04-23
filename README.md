@@ -10,7 +10,6 @@
 
 Com uma base sólida em desenvolvimento frontend e fullstack, tenho habilidades comprovadas de liderança, destacando-me na gestão de equipes de desenvolvimento para projetos web e mobile. Responsável por arquitetar e gerenciar o ciclo completo de desenvolvimento de software, utilizo práticas ágeis para otimizar a produtividade e promover um ambiente colaborativo. Minha expertise técnica é reforçada por habilidades de comunicação e resolução de problemas, permitindo uma interação eficaz com todas as partes interessadas e impulsionando o sucesso empresarial por meio da inovação tecnológica.
 
-
 ### Experiência:
 
 - **4 anos de experiência** sendo desenvolvedor Frontend em projetos para empresas do governo federal e estadual. (React JS e VueJS) 
@@ -23,6 +22,7 @@ Com uma base sólida em desenvolvimento frontend e fullstack, tenho habilidades 
 - **Bibliotecas e Ferramentas:** React, React Native, Express, Axios, node.js, Vite.
 - **DevOps:** Cypress, GitHub Actions, GitLab CI/CD.
 - **Banco de Dados:** MongoDB, PostgreSQL.
+
 
 
 
